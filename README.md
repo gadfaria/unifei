@@ -1,2 +1,2 @@
 # unifei
-Códigos de algumas matérias que fiz na gradução
+Algumas máterias que realizei no começo da graduação e guardei os códigos.
