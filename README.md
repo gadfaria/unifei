@@ -1,6 +1,6 @@
 # unifei
 
-Some code I developed during my graduation
+Some codes I developed during my graduation
 
 * ECOM01 - MATEMÁTICA DISCRETA
 * ECOM02 - TEORIA DE GRAFOS
